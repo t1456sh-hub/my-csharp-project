@@ -2,6 +2,6 @@ public static class Hello
 { 
     public static void SayHello() 
     { 
-        System.Console.WriteLine("Bye, World!"); 
+        System.Console.WriteLine("Second developer changes WITHOUT pull!"); 
     } 
 } 
